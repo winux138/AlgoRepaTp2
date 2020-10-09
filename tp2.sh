@@ -1,0 +1,1 @@
+java -cp out/production/AlgoRepaTp2 tp2exo2.C & java -cp out/production/AlgoRepaTp2 tp2exo2.B & java -cp out/production/AlgoRepaTp2 tp2exo2.A & java -cp out/production/AlgoRepaTp2 tp2exo2.A

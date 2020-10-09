@@ -15,5 +15,5 @@ public class Somme extends Message {
         this.s = s;
     }
 
-    public void add(int i) { this.s += s; }
+    public synchronized void add(int s) { this.s += s; }
 }
